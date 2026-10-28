@@ -1,0 +1,10 @@
+sentence-transformers==5.7.0
+transformers>=5
+torch
+scikit-learn
+scipy
+rdflib
+pandas
+numpy
+matplotlib
+datasets
