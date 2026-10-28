@@ -20,10 +20,10 @@ la longueur des textes et un affinage de MPNet sans fuite de données.
 |---|---|
 | `memoire_sts.ipynb` | notebook complet des expériences, étape par étape, avec ses sorties |
 | `requirements.txt` | bibliothèques Python utilisées |
-| `resultats/PQ_par_requete.json` | LRAP, recall@5 et recall normalisé de chaque requête, pour chaque méthode |
-| `resultats/troncature.json` | LRAP par requête pour chaque configuration de longueur lue |
-| `resultats/affinage_MPNet.json` | scores par CVE de MPNet avant et après affinage, et composition des cinq parties |
-| `resultats/figure4.png` | recall@k par sous-tâche, avec le plafond atteignable |
+| `PQ_par_requete.json` | LRAP, recall@5 et recall normalisé de chaque requête, pour chaque méthode |
+| `troncature.json` | LRAP par requête pour chaque configuration de longueur lue |
+| `affinage_MPNet.json` | scores par CVE de MPNet avant et après affinage, et composition des cinq parties |
+| `figure4.png` | recall@k par sous-tâche, avec le plafond atteignable |
 
 ## Données
 
